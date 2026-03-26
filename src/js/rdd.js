@@ -28,7 +28,7 @@ const usageMsg = `[*] USAGE: ${basePath}?channel=<CHANNEL_NAME>&binaryType=<BINA
     ..
 `;
 
-const hostPath = "https://setup-ak.rbxcdn.com"; // yes
+const hostPath = "https://corsproxy.io/?url=https://setup-ak.rbxcdn.com"; // yes
 
 // Root extract locations for the Win manifests
 const extractRoots = {
