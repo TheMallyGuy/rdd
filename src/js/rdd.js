@@ -28,7 +28,7 @@ const usageMsg = `[*] USAGE: ${basePath}?channel=<CHANNEL_NAME>&binaryType=<BINA
     ..
 `;
 
-const hostPath = "https://setup-aws.rbxcdn.com"; // Only the AWS mirror has proper CORS cfg
+const hostPath = "https://setup-ak.rbxcdn.com"; // yes
 
 // Root extract locations for the Win manifests
 const extractRoots = {
